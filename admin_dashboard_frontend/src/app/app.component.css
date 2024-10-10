@@ -1,0 +1,18 @@
+
+.example-icon-favorite-icon {
+    display: flex; /* Use flexbox for layout */
+    justify-content: flex-end; /* Align buttons to the right */
+    gap: 15px; /* Space between buttons */
+    padding: 10px; /* Padding around the container */
+  }
+  
+  /* Ensure buttons are aligned correctly */
+  .favorite-icon {
+    margin-right: 10px; /* Optional: Additional spacing for each button */
+  }
+  
+  /* Style for the profile icon button */
+  .profile-icon {
+    font-size: 24px; /* Adjust the size of the icon */
+  }
+  
